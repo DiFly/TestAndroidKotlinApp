@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAndroidKotlinApp</string>
+    <string name="editText">Simple Text</string>
+    <string name="simplebutton">CLICK</string>
+    <string name="hint">Enter name...</string>
+    <string name="default_text">Simple text...</string>
+</resources>
